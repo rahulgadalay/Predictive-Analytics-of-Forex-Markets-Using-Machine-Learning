@@ -1,0 +1,2 @@
+# Predictive-Analytics-of-Forex-Markets-Using-Machine-Learning
+Developed a machine learning-based predictive analytics system to forecast foreign exchange (Forex) market trends using historical currency exchange rate data. The project focused on analyzing EUR/USD and GBP/USD exchange rates by applying data preprocessing, feature engineering, and time-series forecasting techniques to improve prediction accuracy
